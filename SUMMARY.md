@@ -9,6 +9,7 @@
   * [Creation of Project:](creation_of_project.md)
   * [Test Case Creation](test_case_creation.md)
 * [Execution in SoapUI NG Pro](execution-in-soapui-ng-pro.md)
+  * [Running Tests from Test Steps](running-tests-from-test-steps.md)
   * [Running Tests From TestSuites And Projects](running_tests_from_testsuites_and_projects.md)
 * Report Generation in SoapUI NG Pro
 
