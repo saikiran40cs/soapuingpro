@@ -11,5 +11,8 @@
 * [Execution in SoapUI NG Pro](execution-in-soapui-ng-pro.md)
   * [Running Tests from Test Steps](running-tests-from-test-steps.md)
   * [Running Tests From TestSuites And Projects](running_tests_from_testsuites_and_projects.md)
-* Report Generation in SoapUI NG Pro
+* [Report Generation in SoapUI NG Pro](report-generation-in-soapui-ng-pro.md)
+  * Test case Level
+  * Test Suite Level
+  * Project Level
 
