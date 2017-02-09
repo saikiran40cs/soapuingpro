@@ -1,4 +1,4 @@
-### **Running Tests From Test Suites** {#running-tests-from-testsuites-and-projects}
+### **Running Tests From Project Level** {#running-tests-from-testsuites-and-projects}
 
 ---
 

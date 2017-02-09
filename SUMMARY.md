@@ -9,10 +9,11 @@
   * [Creation of Project:](creation_of_project.md)
   * [Test Case Creation](test_case_creation.md)
 * [Execution in SoapUI NG Pro](execution-in-soapui-ng-pro.md)
-  * [Running Tests from Test Steps](running-tests-from-test-steps.md)
-  * [Running Tests From TestSuites And Projects](running_tests_from_testsuites_and_projects.md)
+  * [Running Tests From Test Steps](running-tests-from-test-steps.md)
+  * [Running Tests From Test Suites](running_tests_from_testsuites_and_projects.md)
+  * [Running Test From Project Level](running-test-from-project-level.md)
 * [Report Generation in SoapUI NG Pro](report-generation-in-soapui-ng-pro.md)
-  * Test case Level
-  * Test Suite Level
-  * Project Level
+  * [Test case Level](report-generation-in-soapui-ng-pro/test-case-level.md)
+  * [Test Suite Level](report-generation-in-soapui-ng-pro/test-suite-level.md)
+  * [Project Level](report-generation-in-soapui-ng-pro/project-level.md)
 
