@@ -16,4 +16,9 @@
   * [4.1 Test case Level](report-generation-in-soapui-ng-pro/test-case-level.md)
   * [4.2 Test Suite Level](report-generation-in-soapui-ng-pro/test-suite-level.md)
   * [4.3 Project Level](report-generation-in-soapui-ng-pro/project-level.md)
+* [5. Continuous Integration](continuous-integration.md)
+  * [5.1 Jenkins ReadyAPI - Installation instruction](continuous-integration/t.md)
+  * [5.2 CreateTests from Jenkins](continuous-integration/5.2-run-tests-from-jenkins.md)
+  * [5.3 Run Tests from Jenkins](continuous-integration/5.3-run-tests-from-jenkins.md)
+  * [5.4 Resolve License errors in Jenkins](continuous-integration/5.4-resolve-license-errors-in-jenkins.md)
 
