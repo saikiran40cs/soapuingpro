@@ -26,5 +26,3 @@ Based on the format selection the report is saved. \(Here selected in PDF format
 
 Any one of the three reports can be shared across the stakeholders of the system based on their need.
 
-Happy learning..
-
