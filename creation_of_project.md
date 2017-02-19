@@ -18,7 +18,7 @@ To start working with the SOAP UI NG, we need to create a project containing the
 
 * Ready! API will display the **Project is Created** dialog.
   * Select Continue to describe your API to stay in the Projects tool and keep working on your API.
-  * _Or S_elect Create TestCase to create a SoapUI NG test and start working on it.
+  * \_Or S\_elect Create TestCase to create a SoapUI NG test and start working on it.
 
 
 
