@@ -12,6 +12,7 @@
     * [Assertions - In Nutshell](23-assertions/assertions-in-nutshell.md)
     * [Groovy Request and Response Save](23-assertions/groovy-request-and-response-save.md)
     * [Script Assertion](23-assertions/script-assertion.md)
+  * [2.4 Data Driven Testing](24-data-driven-testing.md)
 * [3. Execution in SoapUI NG Pro](execution-in-soapui-ng-pro.md)
   * [3.1 Running Tests From Test Steps](running-tests-from-test-steps.md)
   * [3.2 Running Tests From Test Suites](running_tests_from_testsuites_and_projects.md)
