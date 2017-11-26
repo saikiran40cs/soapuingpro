@@ -32,14 +32,18 @@ else
 { log.info "fail"}
 ```
 
-
-
 Click 'Execute' Button to trigger the execution.
 
 1. The output of the Script is shown in the Output pane. It has printed both, Conversion Value as well as the end result \(Pass or Fail\)
 2. The Information is displayed that 'Script Assertion Passed'. Click OK.
 
 **Note:**The final Information pop up will always display with the message '**Script Assertion Passed**' as long as the script is syntactically correct. It has got no correlation with your assertion within the script.
+
+If you want to call a particular groovy script in other test cases. Below is the format to call it
+
+```
+context.testCase.testSuite.testCases["<TestCaseName>"].testSteps["<TestStepName>"].run(null,context)
+```
 
 
 
