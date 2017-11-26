@@ -9,6 +9,8 @@
   * [2.1 Creation of Project:](creation_of_project.md)
   * [2.2 Test Case Creation](test_case_creation.md)
   * [2.3 Assertions](23-assertions.md)
+    * [Assertions - In Nutshell](23-assertions/assertions-in-nutshell.md)
+    * [Groovy Request and Response Save](23-assertions/groovy-request-and-response-save.md)
     * [Script Assertion](23-assertions/script-assertion.md)
 * [3. Execution in SoapUI NG Pro](execution-in-soapui-ng-pro.md)
   * [3.1 Running Tests From Test Steps](running-tests-from-test-steps.md)
