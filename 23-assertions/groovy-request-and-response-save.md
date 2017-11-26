@@ -6,8 +6,9 @@ Groovy Script to save your request and responses in a particular location.
 
 ```
 //Get the project path stored in
-def projectPath = new com.eviware.soapui.support.GroovyUtils(context).projectPath //gets the path of the project root
+def projectPath = new com.eviware.soapui.support.GroovyUtils(context).projectPath.replace("\\", "/") //gets the path of the project root
 log.info projectPath
+context.testCase.testSuite.setPropertyValue("XMLReqResLoc",projectPath+"/TestResults/")
 
 //Check if there is response
 assert context.request, "Request is empty or null"
