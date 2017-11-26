@@ -9,6 +9,7 @@
   * [2.1 Creation of Project:](creation_of_project.md)
   * [2.2 Test Case Creation](test_case_creation.md)
   * [2.3 Assertions](23-assertions.md)
+    * [Script Assertion](23-assertions/script-assertion.md)
 * [3. Execution in SoapUI NG Pro](execution-in-soapui-ng-pro.md)
   * [3.1 Running Tests From Test Steps](running-tests-from-test-steps.md)
   * [3.2 Running Tests From Test Suites](running_tests_from_testsuites_and_projects.md)
