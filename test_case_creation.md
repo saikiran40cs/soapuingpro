@@ -1,5 +1,7 @@
 ### **Test Case Creation** {#test-case-creation}
 
+---
+
 You can now click to send individual requests to the service. Ready! API will display the response from the service once it is received.
 
 ![](/assets/ReadyAPI_4.png)
