@@ -23,7 +23,7 @@ def saveToFile(file, content) {
 }
 def testCaseName = context.testCase.name.take(10) 
 def testStepName = context.testCase.getTestStepAt(context.getCurrentStepIndex()).getLabel() 
-def timeZone = TimeZone.getTimeZone("HST")
+def timeZone = TimeZone.getTimeZone("PST")
 def dateStamp = new Date().format("yyyyMMdd",timeZone)
 def timeStamp = new Date().format("yyyyMMdd_HHmmss",timeZone).toString()
 def storageLocation = context.testCase.testSuite.getPropertyValue("XMLReqResLoc")
