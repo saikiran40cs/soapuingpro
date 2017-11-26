@@ -33,7 +33,7 @@ saveToFile(requestFile, context.requestContent)
 saveToFile(responseFile, context.response)
 
 //To call in other scripts place below line
-//context.testCase.testSuite.testCases["InitialTC"].testSteps["ScriptAssertion"].run(null,context)
+//context.testCase.testSuite.testCases["<TestCaseName>"].testSteps["<TestStepName>"].run(null,context)
 ```
 
 
