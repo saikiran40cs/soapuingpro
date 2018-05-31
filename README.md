@@ -1,4 +1,4 @@
-# **Preface** {#soapuingpro}
+# Preface
 
 You must have following software’s license downloaded on your systems. If you do not have these, download it from the email received from Smartbear software:
 
